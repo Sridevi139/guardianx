@@ -58,3 +58,7 @@ GuardianX follows a **decoupled, scalable architecture** with separate frontend 
 <p align="center">
   <img src="images/screenshot2.png" width="750">
 </p>
+
+<p align="center">
+  <img src="images/screenshot3.png" width="750">
+</p
