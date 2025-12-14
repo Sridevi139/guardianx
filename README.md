@@ -48,3 +48,13 @@ GuardianX follows a **decoupled, scalable architecture** with separate frontend 
 - Backend enforces strict AI behavior
 - Stateless API design → scalable & cloud-ready
 - Production-ready deployment model
+
+## Application Screenshots
+
+<p align="center">
+  <img src="images/screenshot1.png" width="750">
+</p>
+
+<p align="center">
+  <img src="images/screenshot2.png" width="750">
+</p>
