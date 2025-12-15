@@ -8,7 +8,7 @@ Instead of vague or misleading explanations, GuardianX delivers:
 - **Relevant factual context**
 - Explicit handling of uncertainty
 
-Built with a strong focus on **responsible AI usage**, user experience, and hackathon-grade engineering.
+Built with a strong focus on **responsible AI usage** and user experience
 
 ---
 
